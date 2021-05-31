@@ -5,6 +5,7 @@ var rowTest = [];
 var colTest = [];
 var colKey = [];
 
+// Organize cell data into objects
 loop.forEach(function(item, index) {
     var columnLetter = item.title.$t.substring(0, 1);
     var rowNum =  item.title.$t.substring(1)
