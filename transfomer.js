@@ -1,3 +1,6 @@
+// How to use Google Sheet as a JSON endpoint:
+// https://www.freecodecamp.org/news/cjn-google-sheets-as-json-endpoint/
+
 var newData = [];
 var loop = data.feed.entry;
 
